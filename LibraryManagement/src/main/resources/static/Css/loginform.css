@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.formLogin {
+	border-left: 1px solid gainsboro;
+	height: 100%;
+}
+
+.loginCard{
+padding: 7% !important;  
+margin-left: 7% !important;
+}
+
+.loginImage{
+	max-height: 20%;
+    max-width: fit-content;
+}
